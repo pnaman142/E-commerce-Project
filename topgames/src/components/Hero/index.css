@@ -1,0 +1,7 @@
+.img-container {
+    margin: 5vh 15vw;
+}
+.img-container img {
+    width: 70vw;
+    max-height: 50vh;
+}
